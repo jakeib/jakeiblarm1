@@ -1,0 +1,246 @@
+body {
+    background-image: url("bakgrund.jpg");
+    margin:0px;
+	position: absolute;
+    right: 430px;
+    font-family:sans-serif;
+	position: center;
+}
+
+.content{
+    background:#dddddd;
+    width:1000px;
+    height:1050px;
+    box-shadow:0px 0px 10px 1px;
+    position:relative;
+}
+
+#prdukts{
+    height:1450px;
+}
+
+#omsupport{	
+   height:800px; 
+}
+
+#personal{
+    height:1720px;
+}
+
+h1{
+    font-size:25px;
+    color:#323232; 
+}
+
+p{
+    font-size:16px;
+    line-height:1.3;
+    color:#323232;
+}
+
+ul{
+    margin:0px;
+}
+
+.text{
+    margin:10px 37px 10px 37px;
+}
+
+.bext{
+    width:300px;
+    position:absolute;
+    top:45px;
+    left:325px;
+}
+
+.pext{
+    margin:10px 10px 0px 24px;
+    font-size:20px;
+}
+
+.hlogo{
+    height:180px;
+}
+
+.flikar{
+    list-style-type: none;
+    margin:0px;
+    padding:0px 0px 47px 0px;
+}
+
+.tab{
+    float:left;
+    width:250px;
+    height:40px;
+    font-size:30px;
+    color:#FFFFFF;
+    background-image:url("Bilder/greyflik.png");
+    background-size: 100% 100%;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 7px;
+}
+
+.ssbild{
+    height:240px;
+    width:1000px;
+}
+
+.produkter{
+    width:926px;
+    height:220px;
+    background-color:white;
+    box-shadow:0px 0px 1px 0px;
+    margin:5px 37px 15px 37px;
+    position:relative;
+    line-height:40px;
+    float:right;
+}
+
+.bild{
+    width:180px;
+    height:180px;
+    background: red;
+    position:absolute;
+    right:37px;
+    top:20px;
+}
+
+.tab:hover{
+    background-image:url("Bilder/greyflikh.png");
+}
+
+#marker{
+    background-image:url("Bilder/markor.png"); 
+    color:white;
+}
+
+#marker:hover{
+    background-image:url("Bilder/greyflikh.png");
+}
+
+hr{
+    box-sizing:content-box;
+    margin:5px 37px 10px 37px;
+    border-top:1px solid #b9b9b9;
+}
+
+#shr{
+    margin:5px 0px 10px 0px;
+}
+
+.personal{
+    width: 930px;
+    height: 200px;
+    margin: 10px 0px -35px 37px;
+}
+
+.section{
+    height:160px;
+    width:400px;
+    Float:left;
+    position:relative;
+    background-color:white;
+    box-shadow:0px 0px 1px 0px;
+}
+
+#rsection{
+    left:126px;
+}
+
+.avatar{
+    position:absolute;
+    top:25px;
+    left:20px;
+    height:110px;
+    width:110px;
+    box-shadow:0px 0px 10px 0px;
+}
+
+.namn{
+    font-weight:bold;
+    font-size:18px;
+    position:relative;
+    top:25px;
+    left:150px;
+}
+
+.position{
+    position:relative;
+    top:10px;
+    left:150px;
+    font-size:15px;
+}
+
+.fext{
+    margin:0px 0px 0px 37px;
+}
+
+.footer{
+    background-image:url(Bilder/footer.png);
+    height:110px;
+    width:1000px;
+    position:absolute;
+    bottom:0px;
+}
+
+.footertext{
+    margin:30px 0px 0px 37px;
+    width:100px;
+    float:left;
+    color:white;
+}
+
+.footerp{
+    font-size:12px;
+    line-height:0;
+    color:white;
+}
+
+.attribut{
+    position:absolute;
+    bottom:15px;
+    left:365px;
+}
+
+.tidtext{
+    font-weight:bold;
+    margin:0px 0px -3px 76px;
+    font-size:16px;
+}
+
+.tider{
+    position:absolute;
+    top:296px;
+    right:37px;
+    line-height:1.6;
+}
+
+.suptext{
+    width:500px;
+}
+
+.mail{
+    position:absolute;
+    height:25px;
+    width:25px;
+    left:150px;
+}
+
+.nummer{
+    position: absolute;
+    top: 80px;
+    left: 190px;
+}
+
+a{
+    color: #323232;
+}
+
+a:visited{
+    color: #323232;
+}
+
+#vit{
+    color:white;
+}

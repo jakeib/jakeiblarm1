@@ -1,0 +1,42 @@
+body {
+    background-image: url("bakgrund.jpg");
+    margin:0px;
+	position: absolute;
+    right: 430px;
+    font-family:sans-serif;
+	position: center;
+}
+
+.content{
+    background:#dddddd;
+    width:1000px;
+    height:1050px;
+    box-shadow:0px 0px 10px 1px;
+    position:relative;
+}
+
+.hlogo{
+    height:180px;
+}
+
+.flikar{
+    list-style-type: none;
+    margin:0px;
+    padding:0px 0px 47px 0px;
+}
+
+.tab{
+    float:left;
+    width:250px;
+    height:40px;
+    font-size:30px;
+    color:#FFFFFF;
+    background-image:url("Bilder/greyflik.png");
+    background-size: 100% 100%;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 7px;
+}
+.tab:hover{
+    background-image:url("Bilder/greyflikh.png");
+}
